@@ -8,3 +8,5 @@ Pueden hacer lo que quieran...
 ## One pice
 -luffy
 -zoro
+-nami
+-ussop
